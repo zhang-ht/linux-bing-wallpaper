@@ -1,6 +1,6 @@
-bingmarket: "zh-CN"
+bingmarket: "ja-JP"
 wallpaperdir: ""
-desktopenvironment: ""
+desktopenvironment: "LXDE"
 updateinterval: 6h
 pictureoptions: ""
-defaultcommand: "/usr/bin/feh --bg-fill"
+defaultcommand: "/usr/bin/swaybg -m fill -i"
