@@ -1,6 +1,6 @@
 bingmarket: "ja-JP"
 wallpaperdir: ""
-desktopenvironment: "LXDE"
+desktopenvironment: ""
 updateinterval: 6h
 pictureoptions: ""
 defaultcommand: "/usr/bin/swaybg -m fill -i"
